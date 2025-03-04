@@ -24,6 +24,7 @@ import P17Variable from "./prectice/P17Variable";
 // import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 function App() {
+  console.log("change");
   const [isDark, setIsDark] = useState(false);
 
   const darkTheme = () => {
