@@ -1,0 +1,23 @@
+/* // for L15stylesBySass.js */
+
+.newClass {
+  text-align: center;
+  background-color: darkblue;
+  height: 12rem;
+  h2 {
+    background-color: pink;
+  }
+  div {
+    background-color: aqua;
+    text-align: center;
+    display: flex;
+    /* align-content: center; */
+
+    p {
+      width: 50%;
+      min-height: 30px;
+      font-size: 20px;
+      color: red;
+    }
+  }
+}
